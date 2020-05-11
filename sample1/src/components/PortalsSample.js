@@ -11,7 +11,7 @@ const Layout = styled.div`
     text-align: center;
 `;
 
-function PortalsSample({fnToggelPopup}) {
+export default function PortalsSample({fnToggelPopup}) {
     function fnCloseMe() {
         fnToggelPopup();
     }
@@ -24,6 +24,3 @@ function PortalsSample({fnToggelPopup}) {
         document.getElementById('popupCont')
     )
 }
-
-export default PortalsSample
-

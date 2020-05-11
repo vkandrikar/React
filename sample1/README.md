@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Userfull Extensions
+ES7 React/Redux/graphQL/React-Native snippets
+Beautify
+Bracket pair colorizer
+Tag
+Indent-rainbow
+TODO-highlight
+Auto Rename tag
+
+
 ## Available Scripts
 
 In the project directory, you can run:
