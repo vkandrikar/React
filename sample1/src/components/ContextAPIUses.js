@@ -17,7 +17,7 @@ export default class ContextAPIUses extends Component {
     render() {
         return (
             <>
-                <h1>Context Sample</h1>
+                <h2>Context Sample</h2>
                 <button onClick={this.fnAddTestData}>Add Test Data</button>
                 <button onClick={this.fnRefreshTestData}>Refresh Test Data</button>
                 <button onClick={this.fnGetUserData}>Refresh User Data</button>
